@@ -5,7 +5,7 @@
 -Système de darkmode avec sauvegarde locale basée sur le localStorage\
 -Fetch sur un fichier externe au format JSON et génération de liens en fonction des éléments récupérés
 
-Procédure d'installation :
+Procédures d'installation et de lancement :
 
 > npm install\
 > npm run dev
