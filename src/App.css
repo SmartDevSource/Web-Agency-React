@@ -82,7 +82,9 @@ body{
 }
 
 .footer {
-  padding: 20px;
+  color:white;
+  padding: 22px;
+  font-weight: bold;
   display: flex;
   justify-content: center;
   position: fixed;
