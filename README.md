@@ -1,4 +1,4 @@
-# Projet d'initiation en React + Vite
+# Projet d'initiation en React + Vite #
 
 -Mise en place d'un système SPA au sein de react\
 -Utilisation d'un router et de paths dynamiques pour les liens\
